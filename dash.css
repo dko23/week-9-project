@@ -1,0 +1,50 @@
+body{
+	font-family: 'Oswald', sans-serif;
+background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
+}
+
+.list{
+	list-style-type: none;
+	color: black;
+}
+.inbox{
+	background-color: lightgray;
+}
+.icon{
+	height:30px ;
+	width: 30px ;
+	mix-blend-mode: color-burn;
+}
+
+.form{
+	border-right: 2px solid lightgray;
+}
+.portrait{
+    height: 50px;
+    width: 50px;
+    object-fit:cover;}
+
+.cont{
+
+	margin-bottom: 50px;
+	border-radius: 10px;
+}
+
+
+.dashimg{
+padding-right: 10px;
+}
+
+
+.productreview{
+	background-color: #FDFC9A ;
+}
+.designmeeting{
+	background-color: #DCE2FF ;
+}
+.team-meeting{
+	background-color: #FFEAF9  ;
+}
+.release{
+	background-color: #EAFEF0 ;
+}
